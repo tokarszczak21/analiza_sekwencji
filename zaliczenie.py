@@ -6,6 +6,7 @@
 # do 13:50
 # powiedz co chcesz miec ba tescie
 # nizez masz zrobione a i b
+#chcę podpunkty a i b i tyle mi wystarczy
 
 
 import requests
