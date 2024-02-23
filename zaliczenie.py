@@ -44,3 +44,5 @@ def main():
 
     with open('fastas.txt', 'w') as f:
         f.writelines(fastas)
+
+main()
