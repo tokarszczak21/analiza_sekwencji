@@ -1,3 +1,4 @@
-# powiedz mi jaka chcesz ocene?
-#takie 4 byłoby git sorki że tak późno odpisuję ale robię pozostałę zadania
-ale może być też 3
+# powiedz mi w takim razie ile mam ci tych podpunktow zrobic
+# dwa pierwsze sa ez
+# c jest w miare
+# d jest ez ale nie da sie go zrobic bez c
