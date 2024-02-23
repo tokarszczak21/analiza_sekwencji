@@ -1,4 +1,1 @@
-#tubędziemy się komunikować??
-# wszystko bangla
-#Dali to samo co na pierwszym teminie
-# naszym czy zeszłorocznym?
+# powiedz mi jaka chcesz ocene?
