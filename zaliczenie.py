@@ -1,14 +1,4 @@
-# powiedz mi w takim razie ile mam ci tych podpunktow zrobic
-# dwa pierwsze sa ez
-# c jest w miare
-# d jest ez ale nie da sie go zrobic bez c
-# do ktorej piszeccie?
-# do 13:50
-# powiedz co chcesz miec ba tescie
-# nizez masz zrobione a i b
-#chcę podpunkty a i b i tyle mi wystarczy
-# nizej masz jeszcze zrobiony podpunkt c
-
+#mam to poprawiać czy kopiuj wklej bo mój mózg robi wiiii i nie wiem czy tylko mi wysłąłeś czy znów mogę nie zdać za plagiat XDDD
 import requests
 
 path = 'plik_wejsciowy'
